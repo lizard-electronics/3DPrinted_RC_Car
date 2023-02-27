@@ -1,2 +1,4 @@
-# 6_3DPrinted_RCCar
- 3D printed RC Car with a PCB based on an STM32 MCU to control BLDC motor.
+# 3D-Printed RC Car
+## [ToDo]
+3D printed RC Car that integrates a PCB as ESC.  
+This ESC will be based on an ATmega328P MCU to control a BLDC motor.
