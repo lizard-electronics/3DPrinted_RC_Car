@@ -1,4 +1,4 @@
-# 3DPrinted_RC_Car
+# 3D-Printed RC Car
 ## [ToDo]
 3D-Printed RC Car that integrates a PCB as ESC.
 
